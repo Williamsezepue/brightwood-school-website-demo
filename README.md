@@ -6,18 +6,18 @@ It emphasizes **accessibility, performance, and clarity** in presenting school p
 
 ---
 
-## ✨ Features
+## Features
 
-- 📱 **Responsive Layout** — Optimized for mobile, tablet, and desktop
-- 🎓 **Program Highlights** — STEM Lab, Creative Arts Studio, Sports & Wellness
-- 🧑‍🏫 **Faculty & Admissions Sections** — Clear navigation and structured content
-- ⚡ **Performance** — Fast load times with Next.js SSR
-- ♿ **Accessibility** — Semantic HTML and ARIA support
-- 🎨 **Modern Animations** — Smooth transitions powered by Framer Motion
+- **Responsive Layout** — Optimized for mobile, tablet, and desktop
+- **Program Highlights** — STEM Lab, Creative Arts Studio, Sports & Wellness
+- **Faculty & Admissions Sections** — Clear navigation and structured content
+- **Performance** — Fast load times with Next.js SSR
+- **Accessibility** — Semantic HTML and ARIA support
+- **Modern Animations** — Smooth transitions powered by Framer Motion
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - [Next.js](https://nextjs.org/) — React framework for production
 - [Tailwind CSS](https://tailwindcss.com/) — Utility‑first CSS framework
@@ -27,7 +27,7 @@ It emphasizes **accessibility, performance, and clarity** in presenting school p
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (>= 18)
